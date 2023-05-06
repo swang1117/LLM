@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+spacy
+transformers
+tensorflow
+streamlit
+plotly
+altair
+matplotlib
+wordcloud
+deep-translator
+torch
+google-cloud-firestore
+xgboost
+gcsfs
+SentencePiece
